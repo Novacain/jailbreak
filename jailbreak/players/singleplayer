@@ -1,0 +1,80 @@
+breath = 11
+hp = 5
+name = singleplayer
+pitch = 5.49
+position = (-188,75,908.59)
+version = 1
+yaw = -103.64
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stonebrick
+Item mod3:paint_6
+Item mod3:paint_2
+Item mod3:paint_1
+Item mod3:paint_3
+Item mod3:paint_5
+Item mod3:paint_7
+Item doors:door_steel
+Item mod3:paint_4
+Item mesecons_pistons:piston_normal_off
+Item homedecor:sink
+Item default:torch
+Empty
+Item mesecons_pressureplates:pressure_plate_stone_off
+Item homedecor:toilet
+Item default:ladder
+Item homedecor:bars
+Item cooked_rat 89
+Item homedecor:taps
+Item wool:white 99
+Item wool:red 99
+Item mesecons_random:ghoststone
+Item homedecor:fence_wrought_iron 87
+Empty
+Empty
+Item mesecons_walllever:wall_lever_off
+Item moreblocks:circular_saw
+Empty
+Empty
+Item mesecons:wire_00000000_off
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
